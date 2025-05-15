@@ -2,14 +2,14 @@
 ## fine-tuning 모델 학습 실습과 과제 제출을 위한 Repository입니다 
 
 ### 일반 fine-tuning과 lora 모델 활용 학습의 성능 차이 비교
-사용 모델: --
+사용 모델: monologg/kobert
 
 |항목|일반 파인튜닝|LoRA 파인튜닝|
 |---:|---:|---:|
-|Validation Accuracy|--|--|
-|Training Time|--|--|
-|GPU 메모리 사용량|--|--|
-|모델 저장 용량|--|--|
+|Validation Accuracy|0.853|--|
+|Training Time|968.68 초|--|
+|GPU 메모리 사용량|3609.06 MB|--|
+|모델 저장 용량|3165.78 MB|--|
 |etc|
 
 ### 예시 
